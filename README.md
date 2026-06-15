@@ -23,10 +23,10 @@ The dataset contains structured data used for analysis and reporting.
 
 **Key Information:**
 
-* Source: [Dataset Source]
+* Source: [Excel Source]
 * Format: CSV / Excel
-* Records: [Number of Rows]
-* Features: [Number of Columns]
+* Records: [Rows of 520]
+* Features: [Columns of 7]
 
 ### Sample Columns
 
